@@ -31,8 +31,8 @@ height="30" width="40"/>
 </p>
 
 <h3> AI & Machine Learning </h3>
-<p><a href="https://python.langchain.com/" target="_blank"><img src="https://python.langchain.com/img/brand/wordmark.png" height="40"/></a>
-<a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="40"/></a>
+<p><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<a href="https://openai.com/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" height="45"/></a>
 <a href="https://ai.google.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" width="40"/></a>
 <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40"/></a>
 </p>
